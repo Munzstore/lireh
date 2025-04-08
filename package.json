@@ -1,0 +1,16 @@
+{
+  "name": "lireh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.3.0",
+    "jimp": "^0.16.13",
+    "link-preview-js": "^3.0.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
